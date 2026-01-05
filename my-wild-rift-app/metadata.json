@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Wild Rift Tactician",
+  "description": "A high-performance League of Legends: Wild Rift battle assistant that provides real-time matchup analysis, counter-itemization recommendations, and hero combo strategies powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
